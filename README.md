@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Hazem 👋
 
-<!--
-**hazem3443/hazem3443** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and tech enthusiast. Here's a little about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I enjoy building software that solves real-world problems.
+- 🎓 Constant learner, always exploring new technologies and frameworks.
+- 🌍 Open source contributor, passionate about giving back to the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- **Languages:** C/C++, Python, JavaScript, PHP 
+- **Frameworks:** TI-RTOS, CubeMX, Autosar architecture, VHDL, React, Node.js, Django, Flask
+- **Tools:** Git, jujutsu, Docker, Podman, Kubernetes, CI/CD Pipelines
+
+## 🌟 GitHub Stats
+![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazem3443&show_icons=true&theme=radical)
+
+## 📫 Let's Connect!
+- 📧 [Email](mailto:hazemkhaled3443@gmail.com)
+- 💼 [LinkedIn](https://linkedin.com/in/hazemkhaled3443/) 
+- 🌐 [Portfolio Website](https://hazem3443.github.io/Basics-Wrapup/)
+
+---
+
+*Thanks for visiting my profile! Please feel free to explore my repositories and let me know if you'd like to collaborate.*
