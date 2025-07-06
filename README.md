@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and te
 - 🌍 Open source contributor, passionate about giving back to the community.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C/C++, Python, JavaScript, PHP 
+- **Languages:** C/C++, Python, Rust, JavaScript, PHP 
 - **Frameworks:** TI-RTOS, CubeMX, Autosar architecture, VHDL, React, Node.js, Django, Flask
 - **Tools:** Git, jujutsu, Docker, Podman, Kubernetes, CI/CD Pipelines
 
@@ -18,14 +18,25 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and te
   <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=hazem3443&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
 </a>
 <a href="">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem3443&layout=compact&langs_count=30&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem3443&layout=compact&langs_count=30&card_width=320&theme=radical" />
 </a>
-</br>
+
+## 🏗️ Projects
+
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=OTA&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=OTA&theme=tokyonight" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Mem_mgnt_interface&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Mem_mgnt_interface&theme=tokyonight" />
+</a>
+
+<br><be>
+
+<a href="" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=RTOS_Kernel&theme=tokyonight" />
+</a>
+<a href="" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Embedded-IP-Core&theme=tokyonight" />
 </a>
 
 ## 📫 Let's Connect!
