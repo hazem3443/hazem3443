@@ -15,28 +15,28 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and te
 ## 🌟 GitHub Stats
 
 <a href="">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=hazem3443&card_width=495&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=hazem3443&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem3443&layout=compact&langs_count=30&card_width=495&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem3443&layout=compact&langs_count=30&theme=radical" />
 </a>
 
 ## 🏗️ Projects
 
 <a href="">
-  <img align="left" width="495px" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=OTA&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=OTA&theme=tokyonight" />
 </a>
 <a href="">
-  <img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Mem_mgnt_interface&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Mem_mgnt_interface&theme=tokyonight" />
 </a>
 
 <br><be>
 
 <a href="" >
-  <img align="left" width="495px" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=RTOS_Kernel&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=RTOS_Kernel&theme=tokyonight" />
 </a>
 <a href="" >
-  <img align="center" width="495px" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Embedded-IP-Core&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Embedded-IP-Core&theme=tokyonight" />
 </a>
 
 ## 📫 Let's Connect!
