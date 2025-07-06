@@ -15,6 +15,21 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and te
 ## 🌟 GitHub Stats
 ![Hazem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazem3443&show_icons=true&theme=radical)
 
+## 🌟 Cards Example
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
 ## 📫 Let's Connect!
 - 📧 [Email](mailto:hazemkhaled3443@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/hazemkhaled3443/) 
