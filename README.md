@@ -17,17 +17,17 @@ Welcome to my GitHub profile! I'm a passionate developer, problem-solver, and te
 
 ## 🌟 Cards Example
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hazem3443&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hazem3443&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=radical" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem3443&layout=compact&langs_count=30&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hazem3443&layout=compact&langs_count=30&card_width=320&theme=radical" />
 </a>
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=OTA" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=OTA&theme=radical" />
 </a>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Mem_mgnt_interface" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hazem3443&repo=Mem_mgnt_interface&theme=radical" />
 </a>
 
 ## 📫 Let's Connect!
